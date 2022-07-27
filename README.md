@@ -25,7 +25,8 @@
     <img src="https://circleci.com/gh/gatsbyjs/gatsby.svg?style=shield" alt="Current CircleCI build status." />
   </a>
  
-    <img src="https://img.shields.io/npm/dm/gatsby.svg" alt="Downloads per month on npm." />
+  <a  <img src="https://img.shields.io/npm/dm/gatsby.svg" alt="Downloads per month on npm." />
+ </a>
   <a href="https://npmcharts.com/compare/gatsby?minimal=true">
     <img src="https://img.shields.io/npm/dt/gatsby.svg" alt="Total downloads on npm." />
   </a>
