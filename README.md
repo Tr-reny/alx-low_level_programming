@@ -21,9 +21,7 @@
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="alx-low_level_programming is released under the MIT license." />
   </a>
   
-  
-  
-  <a href="https://circleci.com/gh/gatsbyjs/gatsby">
+  <a href="https://circleci.com/gh/Tr-reny/alx-low_level_programming">
     <img src="https://circleci.com/gh/gatsbyjs/gatsby.svg?style=shield" alt="Current CircleCI build status." />
   </a>
   <a href="https://www.npmjs.com/package/gatsby">
