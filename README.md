@@ -6,7 +6,7 @@
 
 
 
-![GitHub Repo stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Tr-reny/Anki-Android?style=social)
 
 
 
