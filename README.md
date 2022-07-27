@@ -25,16 +25,14 @@
     <img src="https://circleci.com/gh/gatsbyjs/gatsby.svg?style=shield" alt="Current CircleCI build status." />
   </a>
  
-  <a  <img src="https://img.shields.io/npm/dm/gatsby.svg" alt="Downloads per month on npm." />
+  <a href="https://github.com/Tr-reny/alx-low_level_programming/graphs/traffic">
+   <img src="https://img.shields.io/npm/dm/gatsby.svg" alt="Downloads per month on " />
  </a>
-  <a href="https://npmcharts.com/compare/gatsby?minimal=true">
+  <a href="https://github.com/Tr-reny/alx-low_level_programming/graphs/traffic">
     <img src="https://img.shields.io/npm/dt/gatsby.svg" alt="Total downloads on npm." />
   </a>
-  <a href="https://gatsbyjs.com/contributing/how-to-contribute/">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=gatsbyjs">
-    <img src="https://img.shields.io/twitter/follow/gatsbyjs.svg?label=Follow%20@gatsbyjs" alt="Follow @GatsbyJS" />
+  <a href="https://twitter.com/intent/follow?screen_name=tripper_rey">
+    <img src="https://img.shields.io/twitter/follow/tripper_rey.svg?label=Follow%20@tripper_rey" alt="Follow @tripper_rey" />
   </a>
 </p>
 
