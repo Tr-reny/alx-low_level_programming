@@ -39,7 +39,5 @@
   <img src="https://img.shields.io/github/stars/Tr-reny/alx-low_level_programming?style=social" alt="Stars" />
  </a>
 </p>
-
-    ![GitHub Repo stars](https://img.shields.io/github/stars/Tr-reny/alx-low_level_programming?style=social)
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/alx-low-level/count.svg" alt ="Loading">
