@@ -33,8 +33,9 @@
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=tripper_rey">
     <img src="https://img.shields.io/twitter/follow/tripper_rey.svg?label=Follow%20@tripper_rey" alt="Follow @tripper_rey" />
+    ![GitHub Repo stars](https://img.shields.io/github/stars/Tr-reny/alx-low_level_programming?style=social)
   </a>
-  ![GitHub Repo stars](https://img.shields.io/github/stars/Tr-reny/alx-low_level_programming?style=social)
+ 
 </p>
 
 ### Visitors Count
