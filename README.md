@@ -1,5 +1,6 @@
-<HTML>
-<HEAD>
+<!DOCTYPE html>
+<html>
+    <head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BHLKGLRW7R"></script>
 <script>
@@ -9,8 +10,9 @@
 
   gtag('config', 'G-BHLKGLRW7R');
 </script>
-</HEAD>
-</HTML>
+  </head>
+  <body>
+
 
 
 
@@ -59,3 +61,6 @@
 </p>
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/alx-low-level/count.svg" alt ="Loading">
+
+
+</html>
