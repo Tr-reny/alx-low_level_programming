@@ -1,22 +1,3 @@
-<!DOCTYPE html>
-<html>
-    <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BHLKGLRW7R"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-BHLKGLRW7R');
-</script>
-  </head>
-  <body>
-
-
-
-
-
 
 <h1 align="center">
  alx-low_level_programming
@@ -61,6 +42,3 @@
 </p>
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/alx-low-level/count.svg" alt ="Loading">
-
-
-</html>
