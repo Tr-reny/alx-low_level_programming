@@ -1,3 +1,21 @@
+<HTML>
+<HEAD>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BHLKGLRW7R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BHLKGLRW7R');
+</script>
+</HEAD>
+</HTML>
+
+
+
+
+
 <h1 align="center">
  alx-low_level_programming
 </h1>
