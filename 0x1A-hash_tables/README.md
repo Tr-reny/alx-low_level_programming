@@ -1,1 +1,1 @@
-# 0x1A-hash_tables
+# C - Hash tables
